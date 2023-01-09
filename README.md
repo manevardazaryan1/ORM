@@ -1,6 +1,6 @@
 <a id='top'></a>
 
-# CRUD
+# ORM
 
 ### Simple ORM(Object–relational mapping) for sqlite3.
 
