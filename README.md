@@ -18,9 +18,9 @@
 
 #### Are the available files
 
-> base.py created database.
+> base.py creates database.
 
-> form.py created form.
+> form.py creates form.
 
 > scraper.py scraps information from the 'https://www.investopedia.com' site.
 
