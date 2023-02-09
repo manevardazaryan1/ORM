@@ -12,7 +12,6 @@
 
 - beautifulsoup4 (pip install beautifulsoup4)
 - aiohttp (pip install aiohttp)
-- asyncio (pip install asyncio)
 
 ---
 
